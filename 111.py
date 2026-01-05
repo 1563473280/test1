@@ -5,3 +5,6 @@ def hello():
     """
 def basit():
     print("have a nice day")
+
+def hjm():
+    print("111")
