@@ -3,3 +3,5 @@ def hello():
     """
     dsdsd 
     """
+def basit():
+    print("have a nice day")
